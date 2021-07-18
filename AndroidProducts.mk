@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_cepheus.mk
+    $(LOCAL_DIR)/dot_cepheus.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_cepheus-user \
-    nad_cepheus-userdebug \
-    nad_cepheus-eng
+    dot_cepheus-user \
+    dot_cepheus-userdebug \
+    dot_cepheus-eng
